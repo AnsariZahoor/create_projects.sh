@@ -25,7 +25,7 @@ This Bash script automates the setup of a Python development environment within 
 - Visual Studio Code (Optional)
 
 ### Instructions
-- Clone this repository: git clone https://github.com/your-username/your-repo.git
+- Clone this repository: git clone https://github.com/AnsariZahoor/create_projects.sh.git
 - Navigate to the project folder: cd your-repo
 - Run the script with the desired parameters.
 
